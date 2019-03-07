@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "rbdroshni",
+      "email": "test@test.com",
+      "password": "$2a$10$0LhY2Lzfrke/5ox.E2Dk2uo40cxHZZgtBNnJHnW44JPuTr048l.7a"
+    },
+    {
+      "id": "ursells",
+      "email": "user2@example.com",
+      "password": "$2a$10$iIP2VOXpCz/uPtA/xWd98u9bM3H99R7dZ.XhsdZ8KyeD0xxnM.0cm"
+    },
+    {
+      "id": "abc",
+      "email": "user3@example.com",
+      "password": "password2"
+    },
+    {
+      "id": "abcsasds",
+      "email": "user3@example.com",
+      "password": "password2"
+    },
+    {
+      "id": "jshfh",
+      "email": "user4@example.com",
+      "password": "password4"
+    },
+    {
+      "id": "ahdhfh",
+      "email": "user5@example.com",
+      "password": "password5"
+    },
+    {
+      "id": "ahdhfsdffh",
+      "email": "user6@example.com",
+      "password": "password6"
+    },
+    {
+      "id": "adfdhdhfsdffh",
+      "email": "user7@example.com",
+      "password": "password7"
+    },
+    {
+      "id": "e4r4rsddr",
+      "email": "test5@test.com",
+      "password": "password10"
+    },
+    {
+      "id": "dsefrwe",
+      "email": "test6@test.com",
+      "password": "11"
+    },
+    {
+      "id": "asdsds",
+      "email": "test12@test.com",
+      "password": "112233"
+    },
+    {
+      "id": "12",
+      "email": "roshni@test.com",
+      "password": "12345"
+    },
+    {
+      "id": "15",
+      "email": "roshni@test.com",
+      "password": "12345"
+    },
+    {
+      "id": "13",
+      "email": "roshni@test.com",
+      "password": "12345"
+    },
+    {
+      "id": "1",
+      "email": "roshni@test.com",
+      "password": "12345"
+    },
+    {
+      "id": "99876",
+      "email": "bhengra@test.com",
+      "password": "$2b$10$7G3nDHWxZ5g/gcmvvKNx0OcOlxhEqfIjUZB/5B0rBOfT8AT5cD786"
+    },
+    {
+      "id": "124",
+      "email": "mangaroo@test.com",
+      "password": "$2b$10$ThdSpOV5gLTMfEu3TAehwukpwdZFiGGyfFKVk0444TjGvEkwBLNzK"
+    }
+  ]
+}
